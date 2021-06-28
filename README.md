@@ -1,2 +1,2 @@
 # Progress-Steps
- Desc
+ Visual display of current step a user would be while progressing through different things such as maybe a shopping cart to check out, Application submission to confirmation, etc...
